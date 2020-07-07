@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(0, 15, 151);
+  color: white;
+
+}
+
+a:link {
+    color: white; 
+    background-color: transparent; 
+    text-decoration: none;
+  }
+    a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
