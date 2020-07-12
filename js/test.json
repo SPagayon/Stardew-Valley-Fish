@@ -1,0 +1,60 @@
+{
+    "fish": [
+        {
+            "name": "Ghostfish",
+            "image": "Images/Location/Fishing_Pole_Fish/Mines/Ghostfish.png",
+            "description": "A pale, blind fish found in underground lakes.",
+            "price": 45,
+            "location": "Mines", 
+            "time": "Anytime",
+            "season": "Any",
+            "weather": "Any",
+            "size": "10-36",
+            "difficulty": 50,
+            "behavior": "mixed",
+            "base xp": 19
+        },
+        {
+            "name": "Lava Eel",
+            "image": "Images/Location/Fishing_Pole_Fish/Mines/Lava_Eel.png",
+            "description": "It can somehow survive in pools of red-hot lava.",
+            "price": 700,
+            "location": "Mines",
+            "time": "Anytime",
+            "season": "Any",
+            "weather": "Any",
+            "size": "31-33",
+            "difficulty": 90,
+            "behavior": "mixed",
+            "base xp": 90
+        },
+        {
+            "name": "Stonefish",
+            "image": "Images/Location/Fishing_Pole_Fish/Mines/Stonefish.png",
+            "description": "A bizarre fish that's shaped like a brick.",
+            "price": 300,
+            "location": "Mines",
+            "time": "Anytime",
+            "season": "Any",
+            "weather": "Any",
+            "size": "14-16",
+            "difficulty": 65,
+            "behavior": "sinker",
+            "base xp": 24
+        },
+        {
+            "name": "Ice Pip",
+            "image": "Images/Location/Fishing_Pole_Fish/Mines/Stonefish.png",
+            "description": "A rare fish that thrives in extremely cold conditions.",
+            "price": 500,
+            "location": "Mines",
+            "time": "Anytime",
+            "season": "Any",
+            "weather": "Any",
+            "size": "7-9",
+            "difficulty": 85,
+            "behavior": "dart",
+            "base xp": 31
+        }
+    ]
+ }
